@@ -8,7 +8,7 @@ Create Flappy Bird Clone using Lua for desktop
 
 ## Prereqiusites 
 
-TO run the game need:
+To run the game need:
 
 - [Lua](https://www.lua.org/download.html)
 
