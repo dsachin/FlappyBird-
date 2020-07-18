@@ -10,5 +10,13 @@ Create Flappy Bird Clone using Lua for desktop
 
 TO run the game need:
 
-Lua
-Love2D
+Lua Download: https://www.lua.org/download.html
+Love2D Download Link: https://love2d.org/#download
+
+## Running Game
+
+Open Command Propmt in Love Installed Directory (C:\Program Files\LOVE):
+
+Execute: love "gamePath"
+ex. love "D:\Dummy Project\pong"
+
