@@ -19,5 +19,5 @@ TO run the game need:
 Open Command Promt in Love Installed Directory (C:\Program Files\LOVE):
 
 Execute: love "gamePath"
-ex. love "D:\Dummy Project\pong"
+ex. love "D:\Dummy Project\flappyBird"
 
