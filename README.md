@@ -1,6 +1,6 @@
 
 
-# Flappy Bird 🎹
+# Flappy Bird 🐤
 
 ## Our Goal
 
